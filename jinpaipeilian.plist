@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.cattsoft.dtt.mos</string>
+				<string>com.cattsoft.MOS</string>
 				<key>bundle-version</key>
-				<string>3.1.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>掌上运维</string>
+				<string>金牌陪练正式版</string>
 			</dict>
 		</dict>
 	</array>
